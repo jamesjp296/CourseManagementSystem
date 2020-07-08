@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Jun 18 18:28:39 NZST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-c61d-745b-000000223100 
-on database directory memory:C:\Users\james\Downloads\Projects\course-api-data\c7157043-a789-4cf8-a69c-28b36ed8a022 with class loader sun.misc.Launcher$AppClassLoader@52d40d8b 
+Wed Jul 08 14:52:42 NZST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-2c56-ed8d-000000360900 
+on database directory memory:D:\GitHub\My GitHub repository\CourseManagementSystem\course-api-data\3d6cb749-1199-48ab-ac58-22b5f2b660f8 with class loader sun.misc.Launcher$AppClassLoader@ce5a1b9b 
 Loaded from file:/C:/Users/james/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=IBM Corporation
 java.runtime.version=8.0.5.35 - pwa6480sr5fp35-20190418_01(SR5 FP35)
@@ -10,7 +10,7 @@ JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190417_414854 (JIT ena
 OpenJ9   - 777635f
 OMR      - 16b77d7
 IBM      - 72459d3
-user.dir=C:\Users\james\Downloads\Projects\course-api-data
+user.dir=D:\GitHub\My GitHub repository\CourseManagementSystem\course-api-data
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
